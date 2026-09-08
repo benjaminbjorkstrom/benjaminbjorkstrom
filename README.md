@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hej! Mitt namn är Benjamin
+
+Välkommen till min GitHub profil
+
+## Om mig!
+Jag är **20 år gammal** och bor i Stockholm. Jag studerar just nu till webbutveckling.
+
+### Utbildning
+**Mittuniversitetet** - Webbutveckling
 
 <!--
 **benjaminbjorkstrom/benjaminbjorkstrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
